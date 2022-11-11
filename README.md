@@ -37,8 +37,8 @@ THEN the saved events persist
 
 The following animation demonstrates the application functionality:
 
-<!-- @TODO: create ticket to review/update image) -->
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+<!-- @TODO: update to live project screen shot) -->
+![screenshot](./Assets/images/05-third-party-apis-homework-demo.gif)
 
 ## Grading Requirements
 
