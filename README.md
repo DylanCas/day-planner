@@ -1,6 +1,14 @@
 # day-planner
 Modifying starter code to create a day planner that the user can add events to for each hour, and the entered info persists. 
 
+## Usage
+- The time will be tracked upon loading the application and apply red for current times, green for future times, adn grey for past times. Within the text box, add whatever work needs to be done during or by that time, and click save and it will persist in that box upon leaving and returning. To clear, remove the text and save. 
+
+## Screen shot/Link
+
+![Screenshot](./Assets/images/day_planner.png)
+https://dylancas.github.io/day-planner/
+
 # 05 Third-Party APIs: Work Day Scheduler
 
 ## Your Task
